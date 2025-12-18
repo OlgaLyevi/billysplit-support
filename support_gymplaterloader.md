@@ -5,7 +5,6 @@ Thanks for using **Gym Plate Loader**.
 If you need help, have questions, or want to share feedback, please contact us:
 
 **Email:** levi.olga@gmail.com
-*(replace with your real support email if different)*
 
 ---
 

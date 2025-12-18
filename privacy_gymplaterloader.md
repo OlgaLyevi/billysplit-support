@@ -23,7 +23,6 @@ Gym Plate Loader does not knowingly collect data from children under 13.
 If you have questions about this Privacy Policy, contact:
 
 Email: levi.olga@gmail.com 
-(or your real email)
 
 ---
 

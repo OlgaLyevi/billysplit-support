@@ -22,7 +22,6 @@ Tip And Settle does not knowingly collect data from children under 13.
 If you have any questions about this Privacy Policy, contact:
 
 📧 **Email:** levi.olga@gmail.com 
-(or your real email)
 
 ---
 
